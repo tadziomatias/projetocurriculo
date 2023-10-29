@@ -19,7 +19,7 @@ Programa promovido por DevMatias para construção de links para currículos. <b
 <br>
 
 <p align="center">
-  <img alt="projeto portifolio" src="./github/projetoportifolio.jpg" width="100%">
+  <img alt="projeto portifolio" src="./.vscode/github/projetoportifolio.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
